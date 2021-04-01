@@ -1,0 +1,20 @@
+.cover{
+    display: grid;
+    grid-template-columns: minmax(min-content, max-content);
+    grid-template-rows: repeat(2,minmax(min-content, max-content));
+    max-width: 1184px;
+    margin:92px auto 0;
+    row-gap: 32px;
+    text-decoration: none;
+}
+
+.cover:hover .cover__overlay{
+    opacity:70%
+}
+
+@media screen and (max-width:700px){
+    .cover{ 
+        margin: 41px auto 0;
+        row-gap: 16px;
+    }
+}

@@ -1,0 +1,22 @@
+.places__title{
+    max-width: 460px;
+    align-self:start;
+    font-size: 72px;
+    line-height:1.2;
+    font-family: "Inter-ExtraBold", sans-serif;
+    margin:0;
+}
+
+@media screen and (max-width:800px){
+    .places__title{ 
+        font-size: 42px;
+        max-width: 300px;
+    }
+}
+
+@media screen and (max-width:700px){
+    .places__title{ 
+        max-width: 300px;
+        font-size: 32px;
+    }
+}

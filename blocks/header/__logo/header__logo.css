@@ -1,0 +1,11 @@
+.header__logo{
+    max-width: 178px;
+    max-height: 52px;
+    align-self:flex-start;
+}
+
+@media screen and (max-width:600px){
+    .header__logo{
+        transform:scale(.74)
+    }
+}

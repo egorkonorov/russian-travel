@@ -1,0 +1,8 @@
+.intro{
+    display: flex;
+    flex-direction: column;
+    max-width:968px;
+    align-self: center;
+    margin: 0 auto;
+    color: white;
+}

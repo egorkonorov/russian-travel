@@ -1,0 +1,11 @@
+.header__lang-link{
+    width: 30px;
+    height: 28px;
+    margin:18px 0 0 18px;
+}
+
+@media screen and (max-width:600px){
+    .header__lang-link{
+        transform:scale(.74)
+    }
+}
