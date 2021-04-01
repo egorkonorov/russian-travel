@@ -2,12 +2,12 @@
 	font-family: "Inter-ExtraBold"; 
 	src: local('Inter-ExtraBold'),
 		url(./fonts/Inter-ExtraBold.woff2) format("woff2"), 
-        url(./fonts/Inter-ExtraBold.woff) format("woff"); 
+        url(./fonts/Inter-ExtraBold.woff) format("woff");
 }
 
 @font-face {
 	font-family: "Inter"; 
 	src: local("Inter"),
 		url(./fonts/Inter.var.woff2) format("woff2"), 
-        url(./fonts/Inter.var.woff) format("woff"); 
+        url(./fonts/Inter.var.woff) format("woff");
 }

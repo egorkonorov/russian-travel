@@ -9,7 +9,7 @@
 }
 
 .cover:hover .cover__overlay{
-    opacity:70%
+    opacity:70%;
 }
 
 @media screen and (max-width:700px){

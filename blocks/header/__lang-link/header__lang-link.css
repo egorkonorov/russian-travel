@@ -6,6 +6,6 @@
 
 @media screen and (max-width:600px){
     .header__lang-link{
-        transform:scale(.74)
+        transform:scale(.74);
     }
 }
