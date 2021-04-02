@@ -7,7 +7,7 @@
     color: white;
     text-align: center;
     max-width: 640px;
-    font-family: "Inter", sans-serif;
+    font-family: "Inter-Regular", 'Arial', 'Helvetica', sans-serif;
 }
 
 @media screen and (max-width:600px){

@@ -5,7 +5,8 @@
     color: white;
     text-align: center;
     max-width: 720px;
-    font-family: "Inter-ExtraBold", sans-serif;
+    font-family: "Inter-Black", 'Arial', 'Helvetica', sans-serif;
+    font-weight: bold;
 }
 
 @media screen and (max-width:600px){

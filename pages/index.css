@@ -39,10 +39,4 @@
 @import url(./../blocks/footer/_link/footer__link.css);
 @import url(./../blocks/footer/__links/footer__links.css);
 
-@import url(./../blocks/fonts/fonts.css);
-
-/*span{
-    font-family: "Inter-ExtraBold", sans-serif;
-    font-style: bold;
-}
-*/
+@import url(./../vendors/fonts/fonts.css);

@@ -3,11 +3,12 @@
     line-height: 1.15;
     color:white;
     text-align: center;
-    font-family: "Inter-ExtraBold", sans-serif;
+    font-family: "Inter-Black", 'Arial', 'Helvetica', sans-serif;
+    font-weight: bold;
     grid-row:1/2;
     grid-column:1/2;
     z-index: 1;
-    max-width: 500px;
+    max-width: 560px;
     align-self: end;
     justify-self: center;
     margin:0;
@@ -17,7 +18,7 @@
     .cover__title{ 
         font-size: 32px;
         line-height: 1.15;
-        max-width: 240px;
+        max-width: 230px;
         max-height: 200px;
     }
 }
