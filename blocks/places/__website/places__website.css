@@ -4,3 +4,9 @@
     flex-direction: column;
     margin:0;
 }
+
+@media screen and (max-width:400px){
+    .places__website{ 
+    padding:0 16px 0 16px;
+    }
+}

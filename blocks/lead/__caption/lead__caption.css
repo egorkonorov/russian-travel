@@ -5,5 +5,23 @@
     font-family: "Inter-Regular", 'Arial', 'Helvetica', sans-serif;
     min-width: 158px;
     text-transform: uppercase;
+    letter-spacing: 2px;
     margin:8px 0 0 0;
+}
+@media screen and (max-width:1024px){
+    .lead__caption{ 
+    padding:0 48px;
+    }
+}
+
+@media screen and (max-width:800px){
+    .lead__caption{ 
+    padding:0 24px;
+    }
+}
+
+@media screen and (max-width:400px){
+    .lead__caption{ 
+    padding:0 16px;
+    }
 }

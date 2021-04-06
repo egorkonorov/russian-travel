@@ -3,6 +3,26 @@
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     grid-template-rows: repeat(3, 1fr);
     gap: 16px 16px;
-    margin: 92px auto;
+    margin: 92px auto 12px;
     max-width: 1184px;
+}
+
+@media screen and (max-width:1024px){
+    .photo-grid{ 
+    padding:0 48px;
+    }
+}
+
+@media screen and (max-width:800px){
+    .photo-grid{ 
+    padding:0 24px;
+    margin: 88px auto 12px;
+    }
+}
+
+@media screen and (max-width:400px){
+    .photo-grid{ 
+    padding:0 16px;
+    margin: 64px auto 12px;
+    }
 }
