@@ -2,10 +2,10 @@
     max-width: 460px;
     align-self:start;
     font-size: 72px;
-    line-height:1.2;
+    line-height:1.1;
     font-family: "Inter-Black", 'Arial', 'Helvetica', sans-serif;
     font-weight: bold;
-    margin:0;
+    margin:0 0 48px 0;
 }
 
 @media screen and (max-width:800px){
@@ -21,8 +21,9 @@
     }
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
     .places__title{ 
     padding:0 16px 0 16px;
+    margin:0;
     }
 }

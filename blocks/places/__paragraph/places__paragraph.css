@@ -1,9 +1,13 @@
 .places__paragraph{
-    margin:0 0 26px 0;
+    margin:0;
     font-family: "Inter-Regular", 'Arial', 'Helvetica', sans-serif;
     font-weight: normal;
     font-size: 18px;
     line-height: 1.65;
+ }
+
+ .places__paragraph:last-of-type{
+     margin:28px 0 0 0;
  }
 
  @media screen and (max-width:800px){
@@ -12,7 +16,7 @@
     }
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
     .places__paragraph{ 
     padding:0 16px 0 16px;
     }

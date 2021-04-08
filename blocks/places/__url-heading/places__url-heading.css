@@ -8,7 +8,7 @@
 
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
     .places__url-heading{ 
     padding:0 16px 0 0;
     }

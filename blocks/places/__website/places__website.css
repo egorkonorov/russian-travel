@@ -2,11 +2,12 @@
     display:flex;
     justify-content: flex-end;
     flex-direction: column;
-    margin:0;
+    margin:0 0 48px 0;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
     .places__website{ 
     padding:0 16px 0 16px;
+    margin:0;
     }
 }

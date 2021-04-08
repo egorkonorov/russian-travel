@@ -24,17 +24,3 @@
         padding-left:48px;
     }
 }
-
-@media screen and (max-width:800px){
-    .lead__subtitle{ 
-        padding-right:48px;
-        padding-left:48px;
-    }
-}
-
-@media screen and (max-width:400px){
-    .lead__subtitle{ 
-        padding-right:48px;
-        padding-left:48px;
-    }
-}

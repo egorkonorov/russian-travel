@@ -2,7 +2,8 @@
     display: flex;
     color:white;
     flex-direction: column;
-
+    margin:0;
+    padding:0;
 }
 
 @media screen and (max-width:1024px){
@@ -17,7 +18,7 @@
     }
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
     .places{ 
     padding:0;
     }
